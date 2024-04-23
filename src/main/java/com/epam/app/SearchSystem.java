@@ -20,7 +20,7 @@ public class SearchSystem {
     }
 
     public static void runSystem() {
-        System.out.println("             Bed Lines and Dishes Werehouse ©2024");
+        System.out.println("           Bed Lines and Dishes Werehouse ©2024");
         System.out.println("=============== Welcome to the search system ===============\n");
         userController.loginMenu();
         enterTheWareHouse();
